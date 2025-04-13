@@ -1,4 +1,4 @@
-@rem Scripts and rips by Josh (Lotte) gh:@lottehime t:@lotte_hime
+@rem Scripts and rips by Josh (vector_cmdr) gh:@vectorcmdr t:@vector_cmdr
 @echo off
 title ACNH Pattern Dump Index Site Generator
 
@@ -129,8 +129,8 @@ echo.
 echo !ESC![93m                           ##-                                                !ESC![0m
 echo !ESC![93m                #+        #+#+         ACNH Pattern Dump Index Site Generator !ESC![0m
 echo !ESC![93m               #+#.      +#+++                                                !ESC![0m
-echo !ESC![93m              -#++#     +#++##.        by Josh (lotte)                        !ESC![0m
-echo !ESC![93m              #+++#+   +#+++##.        GitHub:@lottehime T:@lotte_hime        !ESC![0m
+echo !ESC![93m              -#++#     +#++##.        by Josh (vector_cmdr)                  !ESC![0m
+echo !ESC![93m              #+++#+   +#+++##.        GitHub:@vectorcmdr T:@vector_cmdr      !ESC![0m
 echo !ESC![93m             -#++++#####++.+-.#+                                              !ESC![0m
 echo !ESC![93m             #++-.+####+...+##-+.                                             !ESC![0m
 echo !ESC![93m            -#+..+..#####  .###-+                                             !ESC![0m
@@ -155,8 +155,8 @@ echo.
 echo !ESC![93m               +            ..                                                !ESC![0m
 echo !ESC![93m              +++          ++#.        ACNH Pattern Dump Index Site Generator !ESC![0m   
 echo !ESC![93m              #+++        +++++                                               !ESC![0m
-echo !ESC![93m             #+++++      ++++++        by Josh (lotte)                        !ESC![0m
-echo !ESC![93m            .+++++#     .++++++        GitHub:@lottehime T:@lotte_hime        !ESC![0m
+echo !ESC![93m             #+++++      ++++++        by Josh (vector_cmdr)                  !ESC![0m
+echo !ESC![93m            .+++++#     .++++++        GitHub:@vectorcmdr T:@vector_cmdr      !ESC![0m
 echo !ESC![93m            ++++++++++..++++++#                                               !ESC![0m
 echo !ESC![93m            ++  +######.  ++##.+                                              !ESC![0m
 echo !ESC![93m            #+..++++++#+...+++#++                                             !ESC![0m
@@ -181,8 +181,8 @@ echo.
 echo !ESC![93m                           ##-                                                !ESC![0m
 echo !ESC![93m                #+        #+#+         ACNH Pattern Dump Index Site Generator !ESC![0m
 echo !ESC![93m               #+#.      +#+++                                                !ESC![0m
-echo !ESC![93m              -#++#     +#++##.        by Josh (lotte)                        !ESC![0m
-echo !ESC![93m              #+++#+   +#+++##.        GitHub:@lottehime T:@lotte_hime        !ESC![0m
+echo !ESC![93m              -#++#     +#++##.        by Josh (vector_cmdr)                  !ESC![0m
+echo !ESC![93m              #+++#+   +#+++##.        GitHub:@vectorcmdr T:@vector_cmdr      !ESC![0m
 echo !ESC![93m             -#++++#####++.+-.#+                                              !ESC![0m
 echo !ESC![93m             #++-.+####+...+##-+.                                             !ESC![0m
 echo !ESC![93m            -#+..+..#####  .###-+                                             !ESC![0m
