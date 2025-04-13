@@ -3,7 +3,7 @@
 <!-- PROJECT HEADER -->
 <br />
 <div align="center">
-  <a href="https://github.com/lottehime/ACNH-Pattern-Dump-Index">
+  <a href="https://github.com/vectorcmdr/ACNH-Pattern-Dump-Index">
     <img src="readmeimg.png" alt="Logo">
   </a>
 
@@ -12,9 +12,9 @@
   <p align="center">
     An <b><i>open source</i></b> directory of Animal Crossing New Horizons design pattern files that isn't locked behind someones frontend and can be contributed to and accessed by <strong>anyone at any time</strong> (and can be self stored and hosted locally on your machine)!
     <br><br />
-    <a href="https://github.com/lottehime/ACNH-Pattern-Dump-Index/issues">Report A Bug</a> 🐞
+    <a href="https://github.com/vectorcmdr/ACNH-Pattern-Dump-Index/issues">Report A Bug</a> 🐞
     ·
-    <a href="https://github.com/lottehime/ACNH-Pattern-Dump-Index/issues">Request A Feature</a> 🏝️
+    <a href="https://github.com/vectorcmdr/ACNH-Pattern-Dump-Index/issues">Request A Feature</a> 🏝️
   </p>
 </div>
 
@@ -22,21 +22,21 @@
 
 [![Contributors][contributors-shield]][contributors-url] [![Stargazers][stars-shield]][stars-url] [![Issues][issues-shield]][issues-url]  [![License][license-shield]][license-url] 
 
-[contributors-shield]: https://img.shields.io/github/contributors/lottehime/ACNH-Pattern-Dump-Index.svg?style=for-the-badge
-[contributors-url]: https://github.com/lottehime/ACNH-Pattern-Dump-Index/graphs/contributors
-[stars-shield]: https://img.shields.io/github/stars/lottehime/ACNH-Pattern-Dump-Index.svg?style=for-the-badge
-[stars-url]: https://github.com/lottehime/ACNH-Pattern-Dump-Index/stargazers
-[issues-shield]: https://img.shields.io/github/issues/lottehime/ACNH-Pattern-Dump-Index.svg?style=for-the-badge
-[issues-url]: https://github.com/lottehime/ACNH-Pattern-Dump-Index/issues
-[license-shield]: https://img.shields.io/github/license/lottehime/ACNH-Pattern-Dump-Index.svg?style=for-the-badge
-[license-url]: https://github.com/lottehime/ACNH-Pattern-Dump-Index/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/vectorcmdr/ACNH-Pattern-Dump-Index.svg?style=for-the-badge
+[contributors-url]: https://github.com/vectorcmdr/ACNH-Pattern-Dump-Index/graphs/contributors
+[stars-shield]: https://img.shields.io/github/stars/vectorcmdr/ACNH-Pattern-Dump-Index.svg?style=for-the-badge
+[stars-url]: https://github.com/vectorcmdr/ACNH-Pattern-Dump-Index/stargazers
+[issues-shield]: https://img.shields.io/github/issues/vectorcmdr/ACNH-Pattern-Dump-Index.svg?style=for-the-badge
+[issues-url]: https://github.com/vectorcmdr/ACNH-Pattern-Dump-Index/issues
+[license-shield]: https://img.shields.io/github/license/vectorcmdr/ACNH-Pattern-Dump-Index.svg?style=for-the-badge
+[license-url]: https://github.com/vectorcmdr/ACNH-Pattern-Dump-Index/blob/master/LICENSE.txt
 
 </div>
 
 <div align="center">
   <br>
-  <a href="https://lottehime.github.io/ACNH-Pattern-Dump-Index/">
-  <img src="https://custom-icon-badges.demolab.com/badge/-CHECK_IT_OUT_ONLINE-68ba9f?style=for-the-badge&logo=globe&logoColor=white" height="60"/>
+  <a href="https://vectorcmdr.github.io/ACNH-Pattern-Dump-Index/">
+  <img src="https://custom-icon-badges.demolab.com/badge/-VIEW_IT_LIVE-68ba9f?style=for-the-badge&logo=globe&logoColor=white" height="60"/>
   </a>
   <br>
 </div>
@@ -94,7 +94,7 @@ Simply download the ``.nhpd`` by clicking the download link, then load into your
 ### Website
 It's made up of 3 parts: ``files/table.html`` (generated), ``files/top.html`` (static) and ``files/bot.html`` (static) that are combined into a single ``index.html``.
 Load up the index and browse away.
-It's also available online here: [ACNH Pattern Dump Index (GitHub Pages)](https://lottehime.github.io/ACNH-Pattern-Dump-Index/)
+It's also available online here: [ACNH Pattern Dump Index (GitHub Pages)](https://vectorcmdr.github.io/ACNH-Pattern-Dump-Index/)
 
 ### Windows Batch File Page Creator/Updater
 The batch file ``live_makehtml.bat`` can be run to generate a new version of the index and pattern pages.  
@@ -148,7 +148,7 @@ WIP. See roadmap below.
 - [ ] (WIP) Add tool for producing QR codes from the files (needs some reversing).
 
 
-See the [open issues](https://github.com/lottehime/ACNH-Pattern-Dump-Index/issues) for any additional community proposed features (and known issues).
+See the [open issues](https://github.com/vectorcmdr/ACNH-Pattern-Dump-Index/issues) for any additional community proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -160,7 +160,7 @@ _For local use as is hosted here with the current dump:_
 1. Download a zip of the repo and unpack it; <strong>or</strong>
 2. Clone the repo
    ```sh
-   git clone https://github.com/lottehime/ACNH-Pattern-Dump-Index.git
+   git clone https://github.com/vectorcmdr/ACNH-Pattern-Dump-Index.git
    ```
 3. Simply open ``index.html`` and away you go.
 
@@ -169,7 +169,7 @@ _To build your own:_
 1. Download a zip of the repo and unpack it; <strong>or</strong>
 2. Clone the repo
    ```sh
-   git clone https://github.com/lottehime/ACNH-Pattern-Dump-Index.git
+   git clone https://github.com/vectorcmdr/ACNH-Pattern-Dump-Index.git
    ```
 3. Either move or copy the ``_src`` folder to where you intend to run it and modify the contents of ``_src/files/pat`` and ``_src/files/pro``; <strong>or</strong>
 4. Modify the contents of ``files/pat`` and ``files/pro`` in the root directory (those containing the current dump).
@@ -215,7 +215,7 @@ _To build your own:_
 <!-- BUY ME A COFFEE -->
 ## Help Support More Like This
 
-<a href="https://www.buymeacoffee.com/lottehime" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+<a href="https://www.buymeacoffee.com/vectorcmdr" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -253,9 +253,9 @@ Distributed under the GNU General Public License v3.0 License. See `LICENSE.txt`
 <!-- CONTACT -->
 ## Contact
 
-<a href="#"><img src="https://cdn.simpleicons.org/twitter/1D9BF0" height="16"/></a> [@lotte_hime](https://twitter.com/lotte_hime)
+<a href="#"><img src="https://cdn.simpleicons.org/x/000000" height="16"/></a> [@vector_cmdr](https://twitter.com/vector_cmdr)
 
-<a href="#"><img src="https://cdn.simpleicons.org/github/181717" height="16"/></a> [https://github.com/lottehime](https://github.com/lottehime)
+<a href="#"><img src="https://cdn.simpleicons.org/github/181717" height="16"/></a> [https://github.com/vectorcmdr](https://github.com/vectorcmdr)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
