@@ -253,7 +253,7 @@ Distributed under the GNU General Public License v3.0 License. See `LICENSE.txt`
 <!-- CONTACT -->
 ## Contact
 
-<a href="#"><img src="https://cdn.simpleicons.org/x/000000" height="16"/></a> [@vector_cmdr](https://twitter.com/vector_cmdr)
+<a href="#"><img src="https://cdn.simpleicons.org/reddit/FF4500" height="16"/></a> [u/vector_cmdr](https://www.reddit.com/user/vector_cmdr/)
 
 <a href="#"><img src="https://cdn.simpleicons.org/github/181717" height="16"/></a> [https://github.com/vectorcmdr](https://github.com/vectorcmdr)
 
